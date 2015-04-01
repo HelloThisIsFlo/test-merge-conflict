@@ -12,4 +12,8 @@ public class Test {
 		return b++;
 	}
 
+	public int function(int c) {
+		return bar(c);
+	}
+
 }
