@@ -8,8 +8,5 @@ public class Test {
 		return a++;
 	}
 
-	public int bar(int b) {
-		return b++;
-	}
 
 }
