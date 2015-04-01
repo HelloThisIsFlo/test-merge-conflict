@@ -8,9 +8,6 @@ public class Test {
 		return a++;
 	}
 
-	public int bar(int b) {
-		return b++;
-	}
 
 	public int function(int c) {
 		return bar(c);
